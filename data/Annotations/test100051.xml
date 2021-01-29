@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>Unknown</folder>
+  <filename>test100051</filename>
+  <path>/home/gp/dukto/Xray_match/data/test1/test100051.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>421</width>
+    <height>332</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>lighter</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>224</xmin>
+      <ymin>23</ymin>
+      <xmax>359</xmax>
+      <ymax>82</ymax>
+    </bndbox>
+  </object>
+</annotation>

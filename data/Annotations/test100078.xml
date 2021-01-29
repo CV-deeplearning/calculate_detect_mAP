@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>Unknown</folder>
+  <filename>test100078</filename>
+  <path>/home/gp/dukto/Xray_match/data/test1/test100078.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>867</width>
+    <height>294</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>597</xmin>
+      <ymin>120</ymin>
+      <xmax>640</xmax>
+      <ymax>231</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>Unknown</folder>
+  <filename>test100016</filename>
+  <path>/home/gp/dukto/Xray_match/data/test1/test100016.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>804</width>
+    <height>452</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>firecrackers</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>456</xmin>
+      <ymin>48</ymin>
+      <xmax>586</xmax>
+      <ymax>163</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>Unknown</folder>
+  <filename>test100006</filename>
+  <path>/home/gp/dukto/Xray_match/data/test1/test100006.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>558</width>
+    <height>317</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pressure</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>389</xmin>
+      <ymin>66</ymin>
+      <xmax>485</xmax>
+      <ymax>227</ymax>
+    </bndbox>
+  </object>
+</annotation>

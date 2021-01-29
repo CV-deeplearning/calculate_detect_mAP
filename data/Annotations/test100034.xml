@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>Unknown</folder>
+  <filename>test100034</filename>
+  <path>/home/gp/dukto/Xray_match/data/test1/test100034.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>554</width>
+    <height>507</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>powerbank</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>94</xmin>
+      <ymin>213</ymin>
+      <xmax>214</xmax>
+      <ymax>333</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>Unknown</folder>
+  <filename>test100097</filename>
+  <path>/home/gp/dukto/Xray_match/data/test1/test100097.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>515</width>
+    <height>379</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>knife</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>170</xmin>
+      <ymin>204</ymin>
+      <xmax>243</xmax>
+      <ymax>324</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>zippooil</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>219</xmin>
+      <ymin>285</ymin>
+      <xmax>333</xmax>
+      <ymax>345</ymax>
+    </bndbox>
+  </object>
+</annotation>

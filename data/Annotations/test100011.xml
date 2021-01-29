@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>Unknown</folder>
+  <filename>test100011</filename>
+  <path>/home/gp/dukto/Xray_match/data/test1/test100011.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>804</width>
+    <height>304</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>knife</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>347</xmin>
+      <ymin>88</ymin>
+      <xmax>408</xmax>
+      <ymax>109</ymax>
+    </bndbox>
+  </object>
+</annotation>
